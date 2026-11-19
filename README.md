@@ -1,162 +1,228 @@
-<!-- Profile README for github.com/Harsha-2005 -->
+<!-- Glossy portfolio README | github.com/Harsha-2005 -->
+
+<div align="center">
+  <img src="assets/portfolio-banner.svg" width="100%" alt="Harsha Pavan — Machine Learning and Software Engineering portfolio banner" />
+</div>
 
 <div align="center">
 
-# Hey, I'm Harsha Pavan 👋
-
-### Aspiring Machine Learning Engineer · Software Developer · AI Enthusiast
-
-<a href="https://github.com/Harsha-2005">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+ML;Turning+ideas+into+working+software;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
-</a>
+<a href="https://github.com/Harsha-2005"><img src="https://img.shields.io/badge/GitHub-Harsha--2005-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://github.com/Harsha-2005?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github" alt="Explore projects"/></a>
+<img src="https://komarev.com/ghpvc/?username=Harsha-2005&style=for-the-badge&color=6D5DFB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/>
 
-<a href="https://github.com/Harsha-2005?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-<a href="https://github.com/Harsha-2005">
-  <img src="https://komarev.com/ghpvc/?username=Harsha-2005&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Machine+Learning+%26+AI;Software+Engineering;Building+useful+things+with+code;Learn+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Animated introduction"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-I'm a **Computer Science undergraduate at Lovely Professional University (Class of 2027)**, pursuing a minor in **Machine Learning**. My focus is at the intersection of **machine learning and software engineering**: understanding models, building practical AI applications, and engineering the systems that make them useful.
+## Hey, I'm Harsha Pavan
 
-- 🤖 Interested in **Machine Learning, Deep Learning, and AI Engineering**
-- ⚙️ Building backend applications and APIs with **Java, Spring Boot, and FastAPI**
-- 🧠 Strengthening my foundations in **DSA, model development, and problem-solving**
-- 🛠️ I like taking projects from an idea to an implemented, testable system
-- 🤝 Open to collaborating on meaningful **AI/ML and software development projects**
+**Computer Science Undergraduate · Aspiring Machine Learning Engineer · Software Developer**
 
-## 🧭 What I'm Working Toward
+I’m pursuing B.Tech in Computer Science at **Lovely Professional University (2027)**, with a minor in **Machine Learning**.
 
-| Machine Learning & AI | Software Engineering |
-|:--|:--|
-| Model training and evaluation | Backend development and REST APIs |
-| Deep learning with PyTorch / TensorFlow | Java, Spring Boot, and database integration |
-| NLP and intelligent agents | Data structures, algorithms, and clean code |
-| Applied ML and real-world problem solving | Building reliable end-to-end applications |
+I work at the intersection of **AI/ML and software engineering** — learning how models work, experimenting with data-driven approaches, and building backend systems and applications that turn ideas into useful products.
 
-## 🧰 Tech Stack
+- Exploring machine learning, deep learning, NLP and intelligent agents.
+- Building backend applications and APIs with Java, Spring Boot and FastAPI.
+- Strengthening DSA, software design and core computer science fundamentals.
+- Interested in engineering practical, reliable AI-powered products.
 
-**Languages**
+<a href="https://github.com/Harsha-2005?tab=repositories"><img src="https://img.shields.io/badge/VIEW_MY_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View projects"/></a>
+<a href="https://github.com/Harsha-2005"><img src="https://img.shields.io/badge/GITHUB_PROFILE-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" alt="Python, Java, C++, MySQL" />
-</p>
+</td>
+<td width="32%" align="center" valign="middle">
+  <img src="assets/pixel-avatar.svg" width="230" alt="Pixel-art developer avatar" />
+  <br/>
+  <sub><b>PIXEL MODE: ON</b></sub>
+  <br/>
+  <sub>Learning. Building. Iterating.</sub>
+</td>
+</tr>
+</table>
 
-**Machine Learning & AI**
+## ✦ My focus
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend, Development & Tools**
+### <img src="https://img.shields.io/badge/01-AI%20%2F%20ML-6D5DFB?style=flat-square" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,html,css,git,github,docker,linux,vscode" alt="Spring, FastAPI, HTML, CSS, Git, GitHub, Docker, Linux, VS Code" />
-</p>
+- Machine Learning & model evaluation
+- Deep Learning with PyTorch / TensorFlow
+- NLP and language-model applications
+- Agent environments and applied AI
 
-Also working with **Keras, Spring Data JPA, Streamlit, Jupyter Notebook, and Google Colab**.
+</td>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+### <img src="https://img.shields.io/badge/02-SOFTWARE%20ENGINEERING-0891B2?style=flat-square" />
 
-<details open>
-<summary><b>🧪 OpenEnv Data Pipeline Debugger — Agent Learning Environment</b></summary>
+- Java and Spring Boot backend development
+- REST APIs and database integration
+- Data Structures & Algorithms
+- Building maintainable end-to-end applications
 
-[Repository](https://github.com/Harsha-2005/data_pipeline_debugger)
+</td>
+</tr>
+</table>
+
+## ⚡ Tech stack
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" alt="Python, Java, C++, MySQL"/>
+
+**AI / MACHINE LEARNING**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="PyTorch, TensorFlow, scikit-learn"/>
+
+**BACKEND / TOOLS**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,html,css,git,github,docker,linux,vscode" alt="Spring, FastAPI, HTML, CSS, Git, GitHub, Docker, Linux, VS Code"/>
+
+</div>
+
+<details>
+<summary><b>More tools and technologies</b></summary>
+<br/>
+Keras · Spring Data JPA · Streamlit · Jupyter Notebook · Google Colab
+</details>
+
+## 🚀 Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 OpenEnv Data Pipeline Debugger
+
+[<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" alt="Open repository"/>](https://github.com/Harsha-2005/data_pipeline_debugger)
 
 An OpenEnv/Gym-style environment for training and evaluating autonomous agents on data-pipeline debugging and repair.
 
-- Structured action space for inspecting and repairing data pipelines.
-- Tiered difficulty and seeded bug injection for repeatable evaluation.
-- Reward shaping to encourage effective repair strategies and validation.
+- Structured action space for pipeline inspection and repair.
+- Tiered difficulty and seeded bug injection.
+- Reward shaping for repair decisions and validation.
 
-**Focus:** Reinforcement learning environments · Agent evaluation · Data engineering
-</details>
+**Area:** Agent learning · Data engineering · RL-style evaluation
 
-<details>
-<summary><b>🔍 AI TraceFinder — AI-assisted Media Analysis</b></summary>
+</td>
+<td width="50%" valign="top">
 
-[Repository](https://github.com/Harsha-2005/AI_TraceFinder)
+### 🔍 AI TraceFinder
 
-A media-analysis project exploring image-forensics techniques and machine-learning models, with a Next.js frontend and FastAPI backend.
+[<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" alt="Open repository"/>](https://github.com/Harsha-2005/AI_TraceFinder)
 
-**Focus:** Machine learning · Image forensics · FastAPI · Next.js
-</details>
+An AI-assisted media-analysis project exploring image-forensics techniques and machine-learning models.
 
-<details>
-<summary><b>📦 Warehouse Management System</b></summary>
+- Next.js frontend and FastAPI backend.
+- Image-analysis pipeline using forensic features and ML models.
 
-[Repository](https://github.com/Harsha-2005/warehousemanagement)
+**Area:** Computer vision · Image forensics · Full-stack AI
 
-A backend-oriented application built with Java and Spring Boot, applying layered architecture and database integration concepts.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Java · Spring Boot · Spring Data JPA · MySQL
-</details>
+### 📈 SKAB IIoT Predictive Maintenance
 
-<details>
-<summary><b>🧠 More projects and experiments</b></summary>
+A machine-learning project exploring anomaly detection for industrial sensor data using Isolation Forest, One-Class SVM and LSTM autoencoders.
 
-- [CustomerPulseAI](https://github.com/Harsha-2005/CustomerPulseAI)
-- [Financial Research Agent](https://github.com/Harsha-2005/financial_research_agent)
-- [Explore all repositories](https://github.com/Harsha-2005?tab=repositories)
+**Area:** Time series · Anomaly detection · Predictive maintenance
 
-</details>
+</td>
+<td width="50%" valign="top">
+
+### 📊 AI Stock Market Sentiment Analyzer
+
+A sentiment-analysis application combining FinBERT with deep-learning experiments and technical features.
+
+**Area:** NLP · FinBERT · PyTorch · Streamlit
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📦 Warehouse Management System
+
+A Java and Spring Boot application applying backend layering, persistence and database-integration concepts.
+
+[Explore repository](https://github.com/Harsha-2005/warehousemanagement)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Harsha-2005?tab=repositories"><img src="https://img.shields.io/badge/DISCOVER%20MORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Discover more projects"/></a>
+</div>
 
 ## 💼 Experience
 
 **Technical Support Intern — Data Centre, Lovely Professional University**  
 *January 2025 – May 2025*
 
-- Supported 200+ student Wi-Fi connectivity, authentication, and network-performance issues.
-- Used tools including `ping`, `tracert`, `ipconfig`, and `nslookup` for troubleshooting.
-- Applied practical knowledge of TCP/IP, DNS, DHCP, and WLAN fundamentals.
+- Supported 200+ student Wi-Fi connectivity, authentication and network-performance issues.
+- Troubleshot network problems using `ping`, `tracert`, `ipconfig` and `nslookup`.
+- Applied practical knowledge of TCP/IP, DNS, DHCP and WLAN fundamentals.
 
-## 📊 GitHub at a Glance
+## 📊 GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/Harsha-2005">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsha-2005&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsha-2005&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1020&title_color=8B9CFF&text_color=C9D4F2&icon_color=22D3EE" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/Harsha-2005">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2005&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-2005&layout=compact&hide_border=true&bg_color=0B1020&title_color=8B9CFF&text_color=C9D4F2" alt="Top languages"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/Harsha-2005">
-  <img src="https://streak-stats.demolab.com?user=Harsha-2005&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=Harsha-2005&hide_border=true&background=0B1020&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B9CFF&sideLabels=C9D4F2&dates=8290B5" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Harsha-2005">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsha-2005&bg_color=0B1020&color=C9D4F2&line=6366F1&point=22D3EE&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
 </a>
 
 </div>
 
-## 🎯 Current Focus
+## 🧭 What I'm focused on now
 
-- Improving DSA and core computer science fundamentals.
-- Deepening ML and deep learning concepts through implementation.
-- Building end-to-end applications with reliable backend APIs.
-- Exploring how to move ML models from experiments into usable software.
+- Deepening ML and deep-learning fundamentals through implementation.
+- Improving problem-solving and DSA consistency.
+- Building backend services with Java, Spring Boot and database integration.
+- Learning to take AI/ML experiments toward reliable, usable applications.
 
-## 🤝 Let's Connect
+## 🤝 Connect with me
 
 <div align="center">
 
-<a href="https://github.com/Harsha-2005">
-  <img src="https://img.shields.io/badge/GitHub-Harsha--2005-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="https://github.com/Harsha-2005?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore%20Repositories-0A66C2?style=for-the-badge&logo=github" alt="Projects" />
-</a>
+<a href="https://github.com/Harsha-2005"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Harsha-2005?tab=repositories"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
-<br/>
+<br/><br/>
 
-*Build thoughtfully. Learn continuously. Engineer what matters.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=8B9CFF&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Let's+build+something+meaningful." alt="Closing message"/>
+
+**LEARN&nbsp; · &nbsp;BUILD&nbsp; · &nbsp;INNOVATE**
 
 </div>
